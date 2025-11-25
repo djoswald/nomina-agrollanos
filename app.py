@@ -175,7 +175,7 @@ def clasificar_horas(inicio, fin, festivos_seleccionados=set()):
 
 # Títulos
 st.markdown('<p class="main-header">AGROLLANOS S.A.S</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">PLATAFORMA WEB DE GESTIÓN DE NÓMINA</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">PLATAFORMA WEB DE GESTIÓN CALCULAHORA DEL DEPARTAMENTO RRHH</p>', unsafe_allow_html=True)
 
 # Sidebar para Filtros
 with st.sidebar:
@@ -330,4 +330,5 @@ with col2:
 
 # Pie de página
 st.markdown("---")
+
 st.caption("© 2025 Agrollanos S.A.S | Versión Web 1.0 | Desarrollado por Oswald Izquierdo")
