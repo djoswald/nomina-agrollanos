@@ -179,7 +179,7 @@ st.markdown('<p class="sub-header">PLATAFORMA WEB DE GESTIÓN CALCULAHORA DEL DE
 
 # Sidebar para Filtros
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/2921/2921222.png", width=80) # Icono genérico o URL de tu logo
+    st.image("https://i.ibb.co/XxKwq3Sn/482030259-1067174312093431-7750360599954286981-n.jpg", width=80) # Icono genérico o URL de tu logo
     st.header("⚙️ Configuración")
     
     st.write("Seleccione el rango de fechas para filtrar los datos:")
@@ -332,3 +332,4 @@ with col2:
 st.markdown("---")
 
 st.caption("© 2025 Agrollanos S.A.S | Versión Web 1.0 | Desarrollado por Oswald Izquierdo")
+
